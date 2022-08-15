@@ -1,6 +1,6 @@
 ## Javascript ile basit bir slider galerisi oluşturdum.
 ## İleri ve geri butonlarına tıklamadığınız takdirde otomatik olarak 2 saniyede bir resimler değişir.
-## Read car properties yazısına tıkladığınızda otomatik resim değişme durur ve siz açılan sayfayı kapattığınızda tekrar başlar.
+## Read car properties yazısına tıkladığınızda otomatik resim değişme durur ve size araç hakkında bilgi veren bir pop-up sayfası açar. Siz açılan sayfayı kapattığınızda resimler otomatik olarak tekrar değişmeye başlar.
 
 ## Projeden ekran görüntüsünü aşağıda paylaşıyorum.
 
